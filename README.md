@@ -111,7 +111,7 @@ I created this repo to:
 
 ---
 
-##  Feedback or Collaboration
+##  Feedback
 
 If you're studying for Cisco certs, This might be helpful!<br>
 This repo will be updated regularly as the course progresses
