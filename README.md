@@ -26,24 +26,24 @@ Each folder contains:
 
 ##  Directory Overview
 
-├── CCNA/
-│ ├── 01-IP-Fundamentals.md
-│ ├── 02-Switching-Basics.md
-│ ├── 03-Routing-Protocols.md
-│ └── ...
-├── CCNP/
-│ ├── 01-OSPF-Advanced.md
-│ ├── 02-BGP-Basics.md
-│ ├── 03-VPNs.md
-│ └── ...
-├── CCIE/
-│ ├── 01-Network-Design.md
-│ ├── 02-Traffic-Engineering.md
-│ ├── 03-Hardening-and-Security.md
-│ └── ...
-├── LABS/
-│ ├── > PacketTracer
-└── README.md
+├── CCNA/ <br>
+│ ├── 01-IP-Fundamentals.md <br>
+│ ├── 02-Switching-Basics.md <br>
+│ ├── 03-Routing-Protocols.md <br>
+│ └── ... <br>
+├── CCNP/ <br>
+│ ├── 01-OSPF-Advanced.md <br>
+│ ├── 02-BGP-Basics.md <br>
+│ ├── 03-VPNs.md <br>
+│ └── ... <br>
+├── CCIE/ <br>
+│ ├── 01-Network-Design.md <br>
+│ ├── 02-Traffic-Engineering.md <br>
+│ ├── 03-Hardening-and-Security.md <br>
+│ └── ... <br>
+├── LABS/ <br>
+│ ├── PacketTracer <br>
+└── README.md <br>
 
 ---
 
